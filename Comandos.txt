@@ -1,0 +1,11 @@
+/*
+	REQUISITOS PARA CURSO DE .NET
+	Tener: VS CODE, .NET CORE 8, Docker Desktop, Postman
+	Extensión de VS CODE: .NET Install Tool, C# Dev Kit, SQL Server (mssql)
+*/
+
+-- Comando para crear el proyecto base (Ejecutar desde PowerShell)
+DotNET dotnet new console --name CsBases
+
+-- Comando para correr el proyecto (Consola de VS Code)
+dotnet run
